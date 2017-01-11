@@ -20,7 +20,7 @@
 	<parent>
 		<groupId>com.gitflow.spike</groupId>
 		<artifactId>spike-parent</artifactId>
-		<version>201701111242-9525457</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
 	<properties>
@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>com.gitflow.spike</groupId>
 			<artifactId>common</artifactId>
-			<version>201701111440-c6c5b5c</version>
+			<version>${spike.common.version}</version>
 		</dependency>
 
 	</dependencies>
